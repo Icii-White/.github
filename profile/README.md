@@ -37,7 +37,7 @@ ___
 > A Github inspired Platform and a Github Client as well, a platform where users create accounts, create projects/Repositories, share them through various platforms, and even host websites with free domains.
 > On the same Platform, an interactive service exists. It's called **devChat** where myGit users connect, chat, interact and share information through messages.
 
-[![view project](https://img.shields.io/badge/VIEW_PROJECT-mygit-F06529?style=for-the-badge&logo=git&logoColor=white)](https://github.com/myTech)
+[![view project](https://img.shields.io/badge/VIEW_PROJECT-mygit-F06529?style=for-the-badge&logo=git&logoColor=white)](#)
 
 #### 3. Grëtta
 > Just like other ChatBots, Grëtta aids in research, generation, interaction, teaching, and roleplaying. Though it has some advanced features that differ it from most Artificial Intelligence Chatbots.
@@ -67,12 +67,12 @@ Uncensored mode is a **Premium Feature** on Grëtta that allows users access the
 
 **Note:** Uncensored mode is dangerous and unsafe for your device. Accessible on your own risk.
 
-[![view project](https://img.shields.io/badge/VIEW_PROJECT-Grëtta-0088CC?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/myTech)
+[![view project](https://img.shields.io/badge/VIEW_PROJECT-Grëtta-0088CC?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 #### More Projects...
 ---
 
-> More Flaming Projects available at **[myTech](https://github.com/myTech)**
+> More Flaming Projects available at **[myTech](#)**
 
 # The myTech team
 > The mighty myTech Team
